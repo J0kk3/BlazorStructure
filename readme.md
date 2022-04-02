@@ -1,3 +1,7 @@
+https://docs.microsoft.com/en-us/learn/paths/build-web-apps-with-blazor/
+
+<hr>
+
 dotnet new blazorserver -f net6.0 
 The -f option forces the application to be built with the framework version .NET 6
 
