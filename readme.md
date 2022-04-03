@@ -1,5 +1,6 @@
 https://docs.microsoft.com/en-us/learn/paths/build-web-apps-with-blazor/
-Microsofts readme from original repo further down
+
+## Microsofts readme from original repo further down
 <hr>
 
 ## dotnet new blazorserver -f net6.0 
